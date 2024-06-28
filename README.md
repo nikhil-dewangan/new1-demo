@@ -4,6 +4,7 @@ A repository (or repo) is a central location where all the files related to a pr
 #git config --global user.name "Your Name"
 #git config --global user.email "your.email@example.com"
 
+Verifying a JWT:
 jwt.verify(token, secretKey, (err, decoded) => {
   if (err) {
     console.log('Token is invalid or expired');
