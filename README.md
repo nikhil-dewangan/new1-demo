@@ -12,3 +12,10 @@ jwt.verify(token, secretKey, (err, decoded) => {
     console.log('Token is valid', decoded);
   }
 });
+
+app.put('/users/:id', (req, res) => {
+  const user = users.find(u => u.id === parseInt(req.params.id));
+  if (!user) return res.status(404).send('User not found');
+  user.name = req.body.name;
+  res.json(user);
+});
