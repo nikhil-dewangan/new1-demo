@@ -19,3 +19,7 @@ app.put('/users/:id', (req, res) => {
   user.name = req.body.name;
   res.json(user);
 });
+Define Endpoints: Decide what functionality your API will provide and define the endpoints.
+. Set Up a Server: Use a framework (e.g., Express.js for Node.js) to create a server that handles requests and responses.
+. Handle Requests: Write code to handle each type of request (GET, POST, etc.) and interact with your data source.
+. Send Responses: Ensure your API sends back the appropriate status codes and data.
