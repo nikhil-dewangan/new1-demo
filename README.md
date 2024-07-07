@@ -7,6 +7,7 @@ Git manages to keep everything organized and version-controlled.
 
 
 #git config --global user.name "Your Name"
+
 #git config --global user.email "your.email@example.com"
 
 Verifying a JWT:
