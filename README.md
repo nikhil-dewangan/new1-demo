@@ -36,3 +36,12 @@ app.put('/users/:id', (req, res) => {
   . Set Up a Server: Use a framework (e.g., Express.js for Node.js) to create a server that handles requests and responses.
   . Handle Requests: Write code to handle each type of request (GET, POST, etc.) and interact with your data source.
   . Send Responses: Ensure your API sends back the appropriate status codes and data.
+
+var maybeIterator = MAYBE_ITERATOR_SYMBOL && maybeIterable[MAYBE_ITERATOR_SYMBOL] || maybeIterable[FAUX_ITERATOR_SYMBOL];
+
+    if (typeof maybeIterator === 'function') {
+      return maybeIterator;
+    }
+
+    return null;
+  }
