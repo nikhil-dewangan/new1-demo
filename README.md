@@ -40,8 +40,6 @@ app.put('/users/:id', (req, res) => {
   if (!user) return res.status(404).send('User not found');
   user.name = req.body.name;
 
-
-
   The versions above are only meant for development, and are not suitable for production.
   Minified and optimized production versions of React are available at:
   
