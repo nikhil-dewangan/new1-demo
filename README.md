@@ -8,7 +8,6 @@ Git manages to keep everything organized and version-controlled.
 
 I'm happy to connect with you.
 
-
 #git config --global user.name "Your Name"
 
 #git config --global user.email "your.email@example.com"
