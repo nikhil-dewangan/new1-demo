@@ -53,7 +53,6 @@ var maybeIterator = MAYBE_ITERATOR_SYMBOL && maybeIterable[MAYBE_ITERATOR_SYMBOL
     if (typeof maybeIterator === 'function') {
       return maybeIterator;
     }
-
     return null;
   }
   // In DEV, calls to console.warn and console.error get replaced
