@@ -54,6 +54,10 @@ var maybeIterator = MAYBE_ITERATOR_SYMBOL && maybeIterable[MAYBE_ITERATOR_SYMBOL
     }
     return null;
   }
+  It is a common practice to declare objects with the const keyword.
+
+  Learn more about using const with objects in the chapter: JS Const.  
+
   // In DEV, calls to console.warn and console.error get replaced
   // by calls to these methods by a Babel plugin.
   //
