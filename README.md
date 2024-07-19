@@ -15,7 +15,9 @@ Verifying a JWT:
 
 jwt.verify(token, secretKey, (err, decoded) => {
   if (err) {
+    
     console.log('Token is invalid or expired');
+    
   } else {
     console.log('Token is valid', decoded);
   }
