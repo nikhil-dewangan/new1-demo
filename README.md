@@ -11,6 +11,8 @@ I'm happy to connect with you.
 
 #git config --global user.email "your.email@example.com"
 
+string to number conversion is create confusion.
+
 Verifying a JWT:
 
 jwt.verify(token, secretKey, (err, decoded) => {
