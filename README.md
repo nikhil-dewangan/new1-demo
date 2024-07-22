@@ -29,6 +29,8 @@ jwt.verify(token, secretKey, (err, decoded) => {
 const dog = function(){
   return "woof!";
 };
+git ls -a
+
 
 console.log(dog);
 
