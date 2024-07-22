@@ -17,6 +17,7 @@ immutable: strings are immutable when we apply any operantion on strings then ol
 
 Verifying a JWT:
 
+git config --global user.email
 jwt.verify(token, secretKey, (err, decoded) => {
   if (err) {
     console.log('Token is invalid or expired');
