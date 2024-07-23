@@ -13,8 +13,11 @@ I'm happy to connect with you.
 
 string to number conversion is create confusion.
 
+immutable: strings are immutable when we apply any operantion on strings then old variable are same and it gives new strings.
+
 Verifying a JWT:
 
+git config --global user.email
 jwt.verify(token, secretKey, (err, decoded) => {
   if (err) {
     console.log('Token is invalid or expired');
@@ -27,6 +30,8 @@ jwt.verify(token, secretKey, (err, decoded) => {
 const dog = function(){
   return "woof!";
 };
+git ls -a
+URL Encoding/Decoding: Uses encodeURIComponent() and decodeURIComponent() to ensure safe transmission of data via URLs.
 
 console.log(dog);
 
