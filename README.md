@@ -31,7 +31,7 @@ const dog = function(){
   return "woof!";
 };
 git ls -a
-
+URL Encoding/Decoding: Uses encodeURIComponent() and decodeURIComponent() to ensure safe transmission of data via URLs.
 
 console.log(dog);
 
