@@ -59,3 +59,7 @@ var maybeIterator = MAYBE_ITERATOR_SYMBOL && maybeIterable[MAYBE_ITERATOR_SYMBOL
   //
   // In PROD (or in packages without access to React internals),
   // they are left as they are instead.
+
+  # Powershell
+
+  we use different command in powershell.
