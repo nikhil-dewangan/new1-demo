@@ -17,6 +17,10 @@ immutable: strings are immutable when we apply any operantion on strings then ol
 
 Verifying a JWT:
 
+we different type of event. 
+1. change event.
+2. input event.
+
 git config --global user.email
 jwt.verify(token, secretKey, (err, decoded) => {
   if (err) {
