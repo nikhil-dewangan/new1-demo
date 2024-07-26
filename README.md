@@ -13,6 +13,13 @@ I'm happy to connect with you.
 
 string to number conversion is create confusion.
 
+string
+number
+boolean
+undefine 
+null
+
+
 immutable: strings are immutable when we apply any operantion on strings then old variable are same and it gives new strings.
 
 Verifying a JWT:
