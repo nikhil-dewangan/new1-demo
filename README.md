@@ -18,6 +18,7 @@ number
 boolean
 undefine 
 null
+primitive data type
 
 
 immutable: strings are immutable when we apply any operantion on strings then old variable are same and it gives new strings.
