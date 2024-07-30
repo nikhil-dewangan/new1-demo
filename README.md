@@ -20,7 +20,7 @@ boolean
 undefine 
 null
 primitive data type
-
+ jsx is like hmtl this is not html.
 start is reserved keyword for react start
 
 immutable: strings are immutable when we apply any operantion on strings then old variable are same and it gives new strings.
