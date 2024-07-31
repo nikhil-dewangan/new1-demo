@@ -13,6 +13,8 @@ I'm happy to connect with you.
 
 string to number conversion is create confusion.
 
+root.render(</Heading>);
+
 it is java scroipt peoce of code which is writen by the facebook developers
 string
 number
