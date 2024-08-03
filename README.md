@@ -11,6 +11,8 @@ I'm happy to connect with you.
 
 #git config --global user.email "your.email@example.com"
 
+style={{backgroundcolor:"yellow"}}
+
 string to number conversion is create confusion.
 
 we have many option to injected one compoent to others . using simple methods
