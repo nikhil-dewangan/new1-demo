@@ -26,6 +26,8 @@ boolean
 undefine 
 null
 primitive data type
+
+<Restaurent cuisins=""/>
  jsx is like hmtl this is not html.
 start is reserved keyword for react start
 
