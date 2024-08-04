@@ -50,6 +50,8 @@ jwt.verify(token, secretKey, (err, decoded) => {
 
 const dog = function(){
   return "woof!";
+  <Restaurent res-add ="Bhilai"
+   cusins ="pizza, burger"/>
 };
 git ls -a
 URL Encoding/Decoding: Uses encodeURIComponent() and decodeURIComponent() to ensure safe transmission of data via URLs.
