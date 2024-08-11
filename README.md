@@ -28,6 +28,7 @@ we have many option to injected one compoent to others . using simple methods
 
 root.render(</Heading>);
 
+
 it is java scroipt peoce of code which is writen by the facebook developers
 string
 number
