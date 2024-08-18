@@ -7,6 +7,7 @@ Git manages to keep everything organized and version-controlled.
 
 I'm happy to connect with you.
 
+two types of js hooks
 
 #git config --global user.name "Your Name"
 
