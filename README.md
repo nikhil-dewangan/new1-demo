@@ -9,7 +9,8 @@ I'm happy to connect with you.
 
 
 two types of js hooks
-
+useState()
+useEffects()
 #git config --global user.name "Your Name"
 
 #git config --global user.email "your.email@example.com"
