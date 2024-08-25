@@ -13,7 +13,6 @@ useEffects()
 #git config --global user.name "Your Name"
 
 #git config --global user.email "your.email@example.com",
-
 for seeing there execution we using log. then we can see how its exwcute.
 style={{backgroundcolor:"yellow"}}
 
