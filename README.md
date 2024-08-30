@@ -9,7 +9,7 @@ I'm happy to connect with you.
 
 two types of js hooks
 useState()
-
+call dusre function as a argument or as aparameter liay ajata hai
 there is lots of option()
 
 useEffects()
