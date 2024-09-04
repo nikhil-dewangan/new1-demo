@@ -13,6 +13,7 @@ useState()
 array destructuing 
 object for in 
 java for jsx
+
 call dusre function as a argument or as aparameter liay ajata hai
 there is lots of option()
 
