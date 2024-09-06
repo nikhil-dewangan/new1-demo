@@ -9,7 +9,7 @@ I'm happy to connect with you.
 
 two types of js hooks
 useState()
-
+foreach
 array destructuing 
 object for in 
 java for jsx
