@@ -32,7 +32,6 @@ function() {
 api.createFolder(cponsole.log());
 }
 
-
 relist.map(restaurent, index) => (
 
 )
