@@ -11,7 +11,7 @@ two types of js hooks
 useState()
 foreach
 bundling
-
+.parcel . webpack .veet
 array destructuing 
 object for in 
 java for jsx
