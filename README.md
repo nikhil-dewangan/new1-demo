@@ -11,6 +11,7 @@ two types of js hooks
 useState()
 foreach
 
+const root = ReactDom.createRoot(document.getmElmentById("root"));
 bundling
 .parcel . webpack .veet
 array destructuing 
