@@ -7,6 +7,9 @@ Git manages to keep everything organized and version-controlled.
 
 I'm happy to connect with you.
 
+newDb.then()=>{
+
+}
 two types of js hooks
 useState()
 foreach
