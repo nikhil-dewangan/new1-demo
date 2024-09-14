@@ -10,7 +10,7 @@ I'm happy to connect with you.
 two types of js hooks
 useState()
 foreach
-
+trastitive dependecies
 const root = ReactDom.createRoot(document.getmElmentById("root"));
 bundling
 .parcel . webpack .veet
