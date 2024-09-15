@@ -13,6 +13,7 @@ newDb.then()=>{
 two types of js hooks
 useState()
 foreach
+
 trastitive dependecies
 const root = ReactDom.createRoot(document.getmElmentById("root"));
 bundling
