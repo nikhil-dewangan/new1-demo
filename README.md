@@ -12,6 +12,7 @@ newDb.then()=>{
 }
 two types of js hooks
 useState()
+djdnsdjn
 foreach
 
 trastitive dependecies
