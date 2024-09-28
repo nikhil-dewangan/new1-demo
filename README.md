@@ -9,7 +9,7 @@ I'm happy to connect with you.
 newDb.then()=>{
 }
 two types of js hooks
-
+document object
 useState()
 djdnsdjn
 foreach
