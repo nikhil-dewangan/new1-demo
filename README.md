@@ -8,6 +8,7 @@ Git manages to keep everything organized and version-controlled.
 I'm happy to connect with you.
 newDb.then()=>{
 }
+project
 two types of js hooks
 with the using of java script  we change html this is two step process
 document object
