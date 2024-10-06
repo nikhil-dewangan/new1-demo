@@ -24,6 +24,7 @@ foreach((item, index, arr)=>
 trastitive dependecies
 const root = ReactDom.createRoot(document.getmElmentById("root"));
 bundling
+
 .parcel . webpack .veet
 array destructuing 
 object for in 
