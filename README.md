@@ -16,8 +16,10 @@ document object
 
 toFixed()
 useState()
+
 djdnsdjn
-foreach
+foreach(()=>
+)
 
 trastitive dependecies
 const root = ReactDom.createRoot(document.getmElmentById("root"));
