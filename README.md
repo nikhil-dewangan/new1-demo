@@ -18,7 +18,7 @@ toFixed()
 useState()
 
 djdnsdjn
-foreach(()=>
+foreach((item, index, arr)=>
 )
 
 trastitive dependecies
