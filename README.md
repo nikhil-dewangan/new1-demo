@@ -12,6 +12,7 @@ project
 two types of js hooks
 
 with the using of java script  we change html this is two step process
+
 document object
 Application Layer
 
