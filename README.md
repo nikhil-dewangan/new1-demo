@@ -28,10 +28,12 @@ foreach((item, index, arr)=>
 
 trastitive dependecies
 const root = ReactDom.createRoot(document.getmElmentById("root"));
+
 bundling
 
 .parcel . webpack .veet
 array destructuing 
+
 object for in 
 java for jsx
 
@@ -44,6 +46,7 @@ git add
 
 #git config --global user.email "your.email@example.com",
 for seeing there execution we using log. then we can see how its exwcute.
+
 style={
   {backgroundcolor:"yellow"}
 }
@@ -63,7 +66,6 @@ root.render()
 
 
 string to number conversion is create confusion.
-
 we have many option to injected one compoent to others . using simple methods
 
 root.render(</Heading>);
