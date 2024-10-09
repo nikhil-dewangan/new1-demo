@@ -64,7 +64,6 @@ and where that config comes from that config comes from backend.
 
 root.render()
 
-
 string to number conversion is create confusion.
 we have many option to injected one compoent to others . using simple methods
 
