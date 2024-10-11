@@ -74,7 +74,9 @@ root.render(</Heading>);
 it is java scroipt peoce of code which is writen by the facebook developers
 string
 number
+
 boolean
+
 undefine 
 null
 primitive data type
