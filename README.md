@@ -41,6 +41,7 @@ call dusre function as a argument or as aparameter liay ajata hai
 there is lots of option()
 
 useEffects()
+
 #git config --global user.name "Your Name"
 git add
 
