@@ -57,8 +57,8 @@ api.createFolder(cponsole.log());
 }
 
 relist.map(restaurent, index) => (
-
 )
+
 ui is basically controlling your ui how the ui looks live using data using a config 
 and where that config comes from that config comes from backend.
 
