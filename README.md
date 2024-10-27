@@ -10,6 +10,7 @@ newDb.then()=>{
 }
 project
 two types of js hooks
+property Acess method ()
 
 with the using of java script  we change html this is two step process
 
