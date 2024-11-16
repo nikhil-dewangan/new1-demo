@@ -15,6 +15,7 @@ text[0]
 
 with the using of java script  we change html this is two step process
 
+the object()
 document object
 Application Layer
 
