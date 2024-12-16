@@ -10,7 +10,7 @@ newDb.then()=>{
 }
 
 project()
-two types of js hooks
+two types of js hooks🧷🧷🧷
 property Acess method ()
 text[0]
 
