@@ -11,6 +11,7 @@ newDb.then()=>{
 a. Pre-increment 
 b. Post-increment
 
+
 project()
 two types of js hooks🧷🧷🧷
 property Acess method ()
