@@ -8,6 +8,8 @@ Git manages to keep everything organized and version-controlled.
 I'm happy to connect with you.
 newDb.then()=>{
 }
+a. Pre-increment 
+b. Post-increment
 
 project()
 two types of js hooks🧷🧷🧷
