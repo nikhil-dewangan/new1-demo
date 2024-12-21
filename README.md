@@ -12,7 +12,8 @@ a. Pre-increment
 b. Post-increment
 
 Call Back Hell;
-to resolve this problem we inntroduce a concept Promises
+to resolve this problem we inntroduce a concept Promises:
+
 project()
 two types of js hooks🧷🧷🧷
 property Acess method ()
