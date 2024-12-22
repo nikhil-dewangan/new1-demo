@@ -6,7 +6,7 @@ It also tracks the history of changes made to these files. Think of it as a proj
 Git manages to keep everything organized and version-controlled.
 
 I'm happy to connect with you.
-newDb.then()=>{
+newDb.then()=>{}
 
 a. Pre-increment 
 b. Post-increment
