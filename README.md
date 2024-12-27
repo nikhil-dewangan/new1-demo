@@ -1,4 +1,5 @@
 # new1-demo
+
 This is demo for Git &amp; GitHub Class for new1-demo repository.
 A repository (or repo) is a central location where all the files related to a project are stored. 
 
