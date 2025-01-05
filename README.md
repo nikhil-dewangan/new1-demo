@@ -25,6 +25,10 @@ to resolve this problem we inntroduce a concept Promises:
 project()
 two types of js hooks🧷🧷🧷
 
+const jUser ={
+"name": "nikku"
+}
+
 property Acess method ()
 text[0]
 
