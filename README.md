@@ -17,7 +17,7 @@ a. Pre-increment
 b. Post-increment
 
 let val = null ?? 5 ?? 10;
-  log( val )
+Object.create
 
 Call Back Hell Three Things for coding
 to resolve this problem we inntroduce a concept Promises:
