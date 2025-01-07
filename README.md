@@ -13,7 +13,7 @@ Independent from H/W and software
 It's Dependent H/w & Os
 }
 
-console.log(Object.hasOwnProperty('fullName'));
+console.log(jUser.hasOwnProperty('fullName'));
 
 a. Pre-increment 
 b. Post-increment
