@@ -19,7 +19,7 @@ a. Pre-increment
 b. Post-increment
 
 let val = null ?? 5 ?? 10;
-Object.create // singleton
+Object.create // singleton, constructor
 
 Call Back Hell Three Things for coding
 to resolve this problem we inntroduce a concept Promises:
