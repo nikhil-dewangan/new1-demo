@@ -14,6 +14,8 @@ It's Dependent H/w & Os
 
 }
 
+hoisting is the process.and phenomena 
+
 console.log(jUser.hasOwnProperty('fullName'));
 
 a. Pre-increment 
