@@ -15,7 +15,6 @@ It's Dependent H/w & Os
 }
 
 hoisting is the process.and phenomena it provides the concept to run before the decalartion.
-
 console.log(jUser.hasOwnProperty('fullName'));
 
 a. Pre-increment 
