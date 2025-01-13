@@ -23,7 +23,7 @@ b. Post-increment
 let val = null ?? 5 ?? 10;
 Object.create // singleton, constructor
 
-Call Back Hell Three Things for coding
+Call Back Hell Three Things for coding.
 to resolve this problem we inntroduce a concept Promises:
 
 project()
