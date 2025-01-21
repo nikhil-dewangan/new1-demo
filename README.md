@@ -31,7 +31,7 @@ two types of js hooks🧷🧷🧷
 
 const jUser ={
   "name": "nikku",
-  dob:20-01-20224
+   dob:20-01-20224
 }
 
 property Acess method ()
