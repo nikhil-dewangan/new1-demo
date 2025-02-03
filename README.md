@@ -12,7 +12,7 @@ newDb.then()=> {
 
  data structure and algorithms
  Independent from H/W and software
- It's Dependent H/w & Os.
+ It's Dependent H/w & Os.  
    
 }   
 
