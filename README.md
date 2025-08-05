@@ -10,7 +10,7 @@ I'm happy to connect with you.
                                                                                                          
 newDb.then()=> {                                                                                                            
  data structure and algorithms                                                                                                                                                                 
- Independent from H/W and software                                                                                                                                                 
+ Independent from H/W and software                                                                                                                                                   
  It's Dependent H/w & Os.                                                                                                                              
 }                                                                                             
 { text content }                        
