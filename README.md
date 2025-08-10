@@ -17,7 +17,7 @@ newDb.then()=> {
 hoisting is the process.and phenomena it provides the concept to run before the decalartion.  
 console.log(jUser.hasOwnProperty('fullName'));
     
-a. Pre-increment; 
+a. Pre-increment;     
 b. Post-increment;
 
 let val = null ?? 5 ?? 10;
