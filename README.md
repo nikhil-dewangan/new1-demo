@@ -13,7 +13,7 @@ newDb.then()=> { data structure and algorithms                                  
 }                                                                                                            
 { text content }                            
 hoisting is the process.and phenomena it provides the concept to run before the decalartion.  
-console.log(jUser.hasOwnProperty('fullName'));
+console.log(jUser.hasOwnProperty('fullName'));   
     
 a. Pre-increment;     
 b. Post-increment;
