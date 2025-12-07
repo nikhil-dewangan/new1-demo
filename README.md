@@ -10,7 +10,7 @@ I'm happy to connect with you.
                                                                                                                          
 newDb.then()=> { data structure and algorithms                                                                                                                                                                        Independent from H/W and software                                                                                                                                                                                                                                                                                                                                                                 
  It's Dependent H/w & Os.                                                                                                                                                                               
-}                                                                                                            
+}                                                                                                                
 { text content }                            
 hoisting is the process.and phenomena it provides the concept to run before the decalartion.  
 console.log(jUser.hasOwnProperty('fullName'));   
