@@ -5,7 +5,7 @@ A repository (or repo) is a central location where all the files related to a pr
             
 #It also tracks the history of changes made to these files. Think of it as a project's folder that,    
 Git manages to keep everything organized and version-controlled.                                                       
-                                                                                                  
+                                                                                                      
 I'm happy to connect with you.                              
                                                                                                                                                                
 newDb.then()=> { data structure and algorithms                                                                                                                                                                        Independent from H/W and software                                                                                                                                                                                                                                                                                                                                                                                                            
