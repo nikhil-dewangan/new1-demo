@@ -14,7 +14,7 @@ hoisting is the process.and phenomena it provides the concept to run before the 
 console.log(jUser.hasOwnProperty('fullName'));        
                     
 a. Pre-increment;                  
-b. Post-increment;
+b. Post-increment;   
 
 let val = null ?? 5 ?? 10;
 Object.create // singleton, constructor
